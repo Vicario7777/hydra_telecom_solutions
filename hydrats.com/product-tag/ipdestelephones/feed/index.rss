@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IP Desk Telephones &#8211; Eazy Connect</title>
+	<atom:link href="https://eazyconnect.co.za/product-tag/ipdestelephones/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eazyconnect.co.za</link>
+	<description>Internet &#38; VoIP Service Provider</description>
+	<lastBuildDate>Wed, 06 Jan 2021 06:12:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Yealink Entry Level IP Phone (With PoE) SKU: SIP-T40P</title>
+		<link>https://eazyconnect.co.za/product/yealink-entry-level-ip-phone-with-poe-sku-sip-t40p/</link>
+					<comments>https://eazyconnect.co.za/product/yealink-entry-level-ip-phone-with-poe-sku-sip-t40p/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 00:42:36 +0000</pubDate>
+				<guid isPermaLink="false">https://eazyconnect.co.za/?post_type=product&#038;p=9771</guid>
+
+					<description><![CDATA[The Yealink T40P remains the ideal solution for office environments that require an elegant and visually appealing IP phone solution. While remaining easy to use and highly functional at its core, the Yealink T40P also features up to 3 x SIP accounts, HD voice and 2 x 10/100 Ethernet ports]]></description>
+										<content:encoded><![CDATA[<p>The Yealink T40P remains the ideal solution for office environments that require an elegant and visually appealing IP phone solution. While remaining easy to use and highly functional at its core, the Yealink T40P also features up to 3 x SIP accounts, HD voice and 2 x 10/100 Ethernet ports with POE support.</p>
+<p>&nbsp;</p>
+<div id="bullet-styled-list">
+<h3>Features:</h3>
+<ul>
+<li>2.3&#8243; 132&#215;64 Pixel Back Light LCD Display</li>
+<li>2 x Ethernet Ports 10/100 POE Support</li>
+<li>3 x SIP Accounts</li>
+<li>3 x Line Keys</li>
+<li>Wall-mountable</li>
+<li>High Definition Voice Support</li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eazyconnect.co.za/product/yealink-entry-level-ip-phone-with-poe-sku-sip-t40p/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

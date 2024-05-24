@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cordless &#8211; Eazy Connect</title>
+	<atom:link href="https://eazyconnect.co.za/product-category/cordless/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eazyconnect.co.za</link>
+	<description>Internet &#38; VoIP Service Provider</description>
+	<lastBuildDate>Wed, 06 Jan 2021 00:39:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Yealink DECT Cordless Handset SKU: W56H</title>
+		<link>https://eazyconnect.co.za/product/ealink-dect-cordless-handset-sku-w56h/</link>
+					<comments>https://eazyconnect.co.za/product/ealink-dect-cordless-handset-sku-w56h/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 00:38:41 +0000</pubDate>
+				<guid isPermaLink="false">https://eazyconnect.co.za/?post_type=product&#038;p=9763</guid>
+
+					<description><![CDATA[The Yealink W56H cordless handset allows you to extend the number of users whilst providing increased flexibility and scalability when used in conjunction with the W60P handset and base station. &#160; Features: Additional Handset for W60P Compatible with the Yealink Multi-Cell DECT solution (W80B/W80B-DM)]]></description>
+										<content:encoded><![CDATA[<p>The Yealink W56H cordless handset allows you to extend the number of users whilst providing increased flexibility and scalability when used in conjunction with the W60P handset and base station.</p>
+<p>&nbsp;</p>
+<div id="bullet-styled-list">
+<h3>Features:</h3>
+<ul>
+<li>Additional Handset for W60P</li>
+<li>Compatible with the Yealink Multi-Cell DECT solution (<a href="https://nology.co.za/products/voip/yealink-w80b-detail">W80B</a>/<a href="https://nology.co.za/products/voip/yealink-w80b-dm-detail">W80B-DM</a>)</li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eazyconnect.co.za/product/ealink-dect-cordless-handset-sku-w56h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Yealink DECT Cordless Handset SKU: W52H</title>
+		<link>https://eazyconnect.co.za/product/yealink-dect-cordless-handset-sku-w52h/</link>
+					<comments>https://eazyconnect.co.za/product/yealink-dect-cordless-handset-sku-w52h/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 00:37:34 +0000</pubDate>
+				<guid isPermaLink="false">https://eazyconnect.co.za/?post_type=product&#038;p=9761</guid>
+
+					<description><![CDATA[The Yealink SIP-W52H cordless handset allows you to extend the number of users whilst providing increased flexibility and scalability when used in conjunction with the Yealink W52P handset and base station. &#160; Features: Additional Handset for W52P]]></description>
+										<content:encoded><![CDATA[<p>The Yealink SIP-W52H cordless handset allows you to extend the number of users whilst providing increased flexibility and scalability when used in conjunction with the Yealink W52P handset and base station.</p>
+<p>&nbsp;</p>
+<div id="bullet-styled-list">
+<h3>Features:</h3>
+<ul>
+<li>Additional Handset for W52P</li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eazyconnect.co.za/product/yealink-dect-cordless-handset-sku-w52h/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
